@@ -7,7 +7,6 @@ Computer science undergraduate at Herald college Kathmandu, Nepal. I am a passio
 ![](https://github-readme-stats.vercel.app/api?username=Tshriju-hub&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tshriju-hub&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tshriju-hub&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tshriju-hub&show_icons=true&locale=en" alt="tshriju-hub" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tshriju-hub&icon=0&color=0)](https://visitcount.itsvg.in)
