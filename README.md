@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science undergraduate at Herald college Kathmandu, Nepal. I am a passionate enthusiast  for web development with a love for crafting digital experiences.<br>Eager to learn and grow in this ever-evolving field.
+I am a passionate enthusiast for web development with a love for crafting digital experiences.<br>Eager to learn and grow in this ever-evolving field.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tshriju-hub&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
